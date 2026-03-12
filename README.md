@@ -24,20 +24,6 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções digitais imp
 
 ---
 
-### 🐍 Cobrinha comendo meus commits
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leopinge/leopinge/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leopinge/leopinge/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leopinge/leopinge/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
 ### 📫 Vamos nos conectar!
 
 <div align="center">
@@ -48,6 +34,16 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções digitais imp
 </div>
 
 ---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leopinge/leopinge/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leopinge/leopinge/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leopinge/leopinge/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 <div align="center">
 
