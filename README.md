@@ -8,7 +8,9 @@
 
 ### 👋 Olá, me chamo Leonardo Pinge!
 
-Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções digitais impactantes. Gosto de trabalhar com tecnologias modernas e estou sempre buscando aprender algo novo.
+Estudo Engenharia de Computação na UNIFEV (me formo no fim de 2026) e trabalho com PHP e MySQL na NKN Digital, mexendo num ERP que está em produção.
+
+Fora do trabalho, faço sites e sistemas como freelancer e brinco bastante com IA: automações no n8n com LLMs, visão computacional com YOLO e algumas redes neurais que implementei na mão pra entender como funcionam. Meu TCC é o BoviCare, um brete automatizado pra gado com ESP32, RFID e Bluetooth.
 
 ---
 
@@ -16,9 +18,14 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções digitais imp
 
 <div align="center">
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
